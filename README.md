@@ -35,7 +35,7 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the Repository**:
    ```bash
-   https://github.com/prateekgup6188/salesforce-service.git
+   git clone https://github.com/prateekgup6188/salesforce-service.git
 2. RUN `npm install`
 3. Set up the environment variables
 
@@ -55,4 +55,6 @@ Deploy:
 
 Render will automatically deploy your application.
 Access Your Application:
-Once deployed, Render will provide a URL for your backend (e.g., https://your-app.onrender.com).
+Once deployed, Render will provide a URL for your backend.
+
+Live Backend URL - `https://salesforce-service.onrender.com/`
